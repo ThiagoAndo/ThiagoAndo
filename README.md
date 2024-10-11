@@ -24,7 +24,7 @@
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/thiago-ando-de-freitas-9b1137195/)
 
-- 💻Personal website and [Portifolio](https://thiago-freitas-portfolio-1goxyzlnn.vercel.app/)
+- 💻Personal website and [Portifolio](https://thiago-freitas-portfolio.vercel.app/)
 
 <br />
 <br />
