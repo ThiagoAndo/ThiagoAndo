@@ -15,7 +15,7 @@
 <br />
 <br /><br />
 <img align="right" width="270px" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-<br /><br /><br />
+
 
 - 💼 FrontEnd Engineer
 
@@ -58,7 +58,7 @@
 <br />
 <div witdh="100%" >      
   <img  width="350" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThiagoAndo&show_icons=true&theme=tokyonight" alt="Shaq's GitHub Stats"/>
-<br /><br /><br />
+
   <img width="260" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAndo&theme=tokyonight&layout=compact"/>
 </div>
 
